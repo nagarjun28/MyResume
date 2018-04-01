@@ -16,7 +16,5 @@
     "url": "https://github.com/nagarjun28/MyResume/issues"
   },
   "homepage": "https://github.com/nagarjun28/MyResume#readme",
-  "dependencies": {
-    "nodemon": "^1.17.3"
-  }
+  "dependencies": {}
 }
